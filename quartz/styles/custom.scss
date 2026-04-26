@@ -1,3 +1,891 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./base.scss";
+
+// put your custom CSS here!
+/**
+ * Retro Mac OS Theme for Quartz v4
+ * Inspired by System 6 / System 7 / Platinum UI (1984–1997)
+ *
+ * HOW TO USE:
+ * 1. Place this file at: quartz/styles/custom.scss
+ * 2. In quartz.config.ts, set: theme: { ... } (see README below)
+ * 3. Run: npx quartz build
+ *
+ * QUARTZ CONFIG (quartz.config.ts) — add inside Plugin.Options:
+ *
+ *   theme: {
+ *     fontOrigin: "googleFonts",
+ *     cdnCaching: true,
+ *     typography: {
+ *       header: "VT323",
+ *       body: "IBM Plex Mono",
+ *       code: "IBM Plex Mono",
+ *     },
+ *     colors: {
+ *       lightMode: {
+ *         light:      "#dddddd",   // window background (classic Mac gray)
+ *         lightgray:  "#aaaaaa",   // borders / dividers
+ *         gray:       "#888888",   // secondary text
+ *         darkgray:   "#222222",   // body text
+ *         dark:       "#000000",   // headings / strong text
+ *         secondary:  "#000080",   // links / accents (classic Mac blue)
+ *         tertiary:   "#0000aa",   // hover accents
+ *         highlight:  "rgba(0, 0, 128, 0.12)", // selection / highlight
+ *         textHighlight: "#ffff00",
+ *       },
+ *       darkMode: {
+ *         light:      "#1a1a2e",
+ *         lightgray:  "#333355",
+ *         gray:       "#7777aa",
+ *         darkgray:   "#ccccdd",
+ *         dark:       "#ffffff",
+ *         secondary:  "#88aaff",
+ *         tertiary:   "#aaccff",
+ *         highlight:  "rgba(136, 170, 255, 0.15)",
+ *         textHighlight: "#ffffaa",
+ *       },
+ *     },
+ *   },
+ */
+
+/* ─────────────────────────────────────────────
+   FONT IMPORTS
+   ───────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&family=Chicago:wght@400&display=swap');
+
+/* ─────────────────────────────────────────────
+   CSS CUSTOM PROPERTY OVERRIDES
+   These supplement the Quartz theme colors.
+   ───────────────────────────────────────────── */
+:root {
+  /* Mac OS Platinum / System 7 grays */
+  --mac-white:        #ffffff;
+  --mac-light-gray:   #dddddd;
+  --mac-mid-gray:     #bbbbbb;
+  --mac-dark-gray:    #888888;
+  --mac-shadow:       #444444;
+  --mac-black:        #000000;
+  --mac-blue:         #000080;
+  --mac-blue-title:   #000099;
+
+  /* Window chrome metrics */
+  --mac-border:       2px solid var(--mac-black);
+  --mac-radius:       0px;          /* Classic Mac: no border radius */
+  --mac-title-height: 20px;
+
+  /* Typography */
+  --headerFont:       'VT323', 'Chicago', monospace;
+  --bodyFont:         'IBM Plex Mono', monospace;
+  --codeFont:         'IBM Plex Mono', monospace;
+
+  /* Subtle scanline/texture overlay for that CRT feel */
+  --scanline-opacity: 0.025;
+}
+
+/* ─────────────────────────────────────────────
+   GLOBAL RESET & BASE
+   ───────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--mac-light-gray);
+  /* Classic Mac desktop pattern: alternating 1px dots */
+  background-image: radial-gradient(circle, #aaaaaa 1px, transparent 1px);
+  background-size: 4px 4px;
+  font-family: var(--bodyFont);
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--darkgray);
+}
+
+/* CRT scanline effect — very subtle */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 2px,
+    rgba(0,0,0,var(--scanline-opacity)) 2px,
+    rgba(0,0,0,var(--scanline-opacity)) 4px
+  );
+  z-index: 9999;
+}
+
+/* ─────────────────────────────────────────────
+   MAC OS WINDOW CHROME MIXIN
+   Applied to the main layout panels
+   ───────────────────────────────────────────── */
+@mixin mac-window {
+  background-color: var(--light);
+  border: var(--mac-border);
+  box-shadow:
+    2px 2px 0 var(--mac-shadow),
+    4px 4px 0 rgba(0,0,0,0.2);
+  position: relative;
+}
+
+@mixin mac-title-bar($title: '') {
+  &::before {
+    content: $title;
+    display: block;
+    height: var(--mac-title-height);
+    background: linear-gradient(
+      to right,
+      var(--mac-black) 0px, var(--mac-black) 1px,
+      var(--mac-white) 1px, var(--mac-white) 3px,
+      var(--mac-black) 3px, var(--mac-black) 4px,
+      var(--mac-white) 4px, var(--mac-white) 6px,
+      var(--mac-black) 6px, var(--mac-black) 7px,
+      var(--mac-white) 7px, var(--mac-white) 9px,
+      var(--mac-black) 9px, var(--mac-black) 10px,
+      var(--mac-white) 10px, var(--mac-white) 12px,
+      var(--mac-black) 12px, var(--mac-black) 13px,
+      var(--mac-white) 13px, var(--mac-white) 15px,
+      var(--mac-black) 15px, var(--mac-black) 16px,
+      var(--mac-white) 16px, var(--mac-white) 18px,
+      var(--mac-black) 18px, var(--mac-black) 19px,
+      var(--mac-white) 19px
+    );
+    border-bottom: 1px solid var(--mac-black);
+    font-family: var(--headerFont);
+    font-size: 13px;
+    line-height: var(--mac-title-height);
+    text-align: center;
+    color: var(--mac-black);
+    letter-spacing: 0.05em;
+  }
+}
+
+/* ─────────────────────────────────────────────
+   PAGE LAYOUT
+   ───────────────────────────────────────────── */
+#quartz-root {
+  max-width: 1400px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+#quartz-body {
+  display: grid;
+  grid-template-columns: 240px 1fr 240px;
+  gap: 1rem;
+  align-items: start;
+}
+
+/* ─────────────────────────────────────────────
+   SIDEBAR (LEFT) — styled as a Mac "tools" palette
+   ───────────────────────────────────────────── */
+.left.sidebar {
+  @include mac-window;
+
+  /* Title bar stripe */
+  &::before {
+    content: '◉ Navigator';
+    display: block;
+    height: var(--mac-title-height);
+    background: repeating-linear-gradient(
+      90deg,
+      var(--mac-black) 0px,
+      var(--mac-black) 1px,
+      var(--mac-white) 1px,
+      var(--mac-white) 3px
+    );
+    border-bottom: 2px solid var(--mac-black);
+    font-family: var(--headerFont);
+    font-size: 13px;
+    line-height: var(--mac-title-height);
+    text-align: center;
+    color: var(--mac-black);
+    mix-blend-mode: multiply;
+  }
+
+  .page-title {
+    font-family: var(--headerFont);
+    font-size: 22px;
+    letter-spacing: 0.08em;
+    text-align: center;
+    padding: 0.75rem 0.5rem 0.5rem;
+    margin: 0;
+    border-bottom: 1px solid var(--lightgray);
+
+    a {
+      color: var(--dark);
+      text-decoration: none;
+      &:hover { text-decoration: underline; }
+    }
+  }
+}
+
+/* ─────────────────────────────────────────────
+   SIDEBAR (RIGHT)
+   ───────────────────────────────────────────── */
+.right.sidebar {
+  @include mac-window;
+
+  &::before {
+    content: '◉ Tools';
+    display: block;
+    height: var(--mac-title-height);
+    background: repeating-linear-gradient(
+      90deg,
+      var(--mac-black) 0px,
+      var(--mac-black) 1px,
+      var(--mac-white) 1px,
+      var(--mac-white) 3px
+    );
+    border-bottom: 2px solid var(--mac-black);
+    font-family: var(--headerFont);
+    font-size: 13px;
+    line-height: var(--mac-title-height);
+    text-align: center;
+    color: var(--mac-black);
+    mix-blend-mode: multiply;
+  }
+}
+
+/* ─────────────────────────────────────────────
+   CENTER / ARTICLE — the main "document window"
+   ───────────────────────────────────────────── */
+.center {
+  @include mac-window;
+  min-height: 60vh;
+}
+
+/* Document window title bar */
+.page-header {
+  background: repeating-linear-gradient(
+    90deg,
+    var(--mac-black) 0px,
+    var(--mac-black) 1px,
+    var(--mac-white) 1px,
+    var(--mac-white) 3px
+  );
+  border-bottom: 2px solid var(--mac-black);
+  padding: 0 0.75rem;
+  height: var(--mac-title-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+
+  /* Close / minimize / zoom boxes — left side */
+  &::before {
+    content: '□ □ □';
+    position: absolute;
+    left: 6px;
+    font-size: 11px;
+    font-family: var(--bodyFont);
+    letter-spacing: 2px;
+    color: var(--mac-black);
+    mix-blend-mode: multiply;
+  }
+
+  h1.article-title {
+    font-family: var(--headerFont);
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    color: var(--mac-black);
+    mix-blend-mode: multiply;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+/* Article body */
+article {
+  padding: 1.5rem 2rem;
+  background: var(--mac-white);
+
+  p, li, td, th {
+    font-family: var(--bodyFont);
+    font-size: 13px;
+    line-height: 1.7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--headerFont);
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    color: var(--dark);
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.15em;
+    margin-top: 1.5em;
+  }
+
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.8rem; }
+  h3 { font-size: 1.5rem; }
+  h4 { font-size: 1.2rem; }
+
+  /* Links */
+  a {
+    color: var(--secondary);
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-underline-offset: 2px;
+
+    &:hover {
+      color: var(--tertiary);
+      background-color: var(--highlight);
+    }
+
+    /* External link icon */
+    &.external .external-icon {
+      margin-left: 2px;
+    }
+  }
+
+  /* Inline code */
+  code:not(pre code) {
+    font-family: var(--codeFont);
+    font-size: 12px;
+    background: var(--mac-light-gray);
+    border: 1px solid var(--mac-dark-gray);
+    padding: 0 3px;
+    box-shadow: inset 1px 1px 0 var(--mac-white);
+  }
+
+  /* Code blocks — styled as a Mac terminal / MPW shell window */
+  pre {
+    background: var(--mac-black);
+    color: #33ff33;   /* classic green phosphor */
+    border: 2px solid var(--mac-black);
+    box-shadow: 2px 2px 0 var(--mac-shadow);
+    padding: 1rem;
+    overflow-x: auto;
+    position: relative;
+
+    /* Faux terminal title bar */
+    &::before {
+      content: '● ● ●  Terminal';
+      display: block;
+      background: var(--mac-mid-gray);
+      color: var(--mac-black);
+      border-bottom: 1px solid var(--mac-black);
+      margin: -1rem -1rem 0.75rem;
+      padding: 2px 8px;
+      font-family: var(--headerFont);
+      font-size: 12px;
+      letter-spacing: 0.05em;
+    }
+
+    code {
+      font-family: var(--codeFont);
+      font-size: 12px;
+      color: #33ff33;
+      background: none;
+      border: none;
+      padding: 0;
+      box-shadow: none;
+    }
+  }
+
+  /* Blockquotes — indented Mac dialog box style */
+  blockquote {
+    margin: 1rem 0;
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--mac-black);
+    background: var(--mac-light-gray);
+    box-shadow: 2px 2px 0 var(--mac-shadow);
+    font-style: italic;
+    position: relative;
+
+    &::before {
+      content: '💬';
+      position: absolute;
+      top: -0.75rem;
+      left: 0.5rem;
+      font-style: normal;
+      font-size: 1rem;
+    }
+  }
+
+  /* Tables — Mac list view */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid var(--mac-black);
+    font-size: 12px;
+
+    thead tr {
+      background: var(--mac-light-gray);
+      border-bottom: 2px solid var(--mac-black);
+    }
+
+    th {
+      font-family: var(--headerFont);
+      font-weight: 400;
+      padding: 4px 8px;
+      text-align: left;
+      border-right: 1px solid var(--mac-dark-gray);
+      letter-spacing: 0.04em;
+    }
+
+    td {
+      padding: 3px 8px;
+      border-right: 1px solid var(--mac-mid-gray);
+      border-bottom: 1px solid var(--mac-mid-gray);
+    }
+
+    tr:nth-child(even) td {
+      background: rgba(0,0,0,0.03);
+    }
+    tr:hover td {
+      background: var(--highlight);
+    }
+  }
+
+  /* Horizontal rule — Mac window separator */
+  hr {
+    border: none;
+    border-top: 2px solid var(--mac-black);
+    margin: 1.5rem 0;
+    position: relative;
+
+    &::after {
+      content: '⬥';
+      position: absolute;
+      left: 50%;
+      top: -0.6em;
+      transform: translateX(-50%);
+      background: var(--mac-white);
+      padding: 0 4px;
+      font-size: 0.75rem;
+    }
+  }
+
+  /* Images — framed like a Mac picture window */
+  img {
+    border: 2px solid var(--mac-black);
+    box-shadow: 3px 3px 0 var(--mac-shadow);
+    display: block;
+    max-width: 100%;
+    margin: 1rem auto;
+  }
+}
+
+/* ─────────────────────────────────────────────
+   CONTENT META (date, read time)
+   ───────────────────────────────────────────── */
+.content-meta {
+  font-family: var(--bodyFont);
+  font-size: 11px;
+  color: var(--gray);
+  padding: 0.4rem 2rem;
+  background: var(--mac-light-gray);
+  border-bottom: 1px solid var(--lightgray);
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+/* ─────────────────────────────────────────────
+   SEARCH — styled as a Mac dialog box
+   ───────────────────────────────────────────── */
+.search-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--bodyFont);
+  font-size: 12px;
+  background: var(--mac-light-gray);
+  border: 2px solid var(--mac-black);
+  box-shadow: 2px 2px 0 var(--mac-shadow);
+  padding: 3px 10px;
+  cursor: pointer;
+  width: 100%;
+  justify-content: center;
+  transition: box-shadow 0.05s, transform 0.05s;
+
+  &:hover {
+    background: var(--mac-white);
+  }
+  &:active {
+    box-shadow: none;
+    transform: translate(2px, 2px);
+  }
+
+  svg { width: 12px; height: 12px; }
+  p { margin: 0; }
+}
+
+.search-container {
+  .search-bar {
+    font-family: var(--bodyFont);
+    font-size: 12px;
+    border: 2px solid var(--mac-black);
+    padding: 4px 8px;
+    background: var(--mac-white);
+    box-shadow: inset 2px 2px 0 var(--mac-light-gray);
+    width: 100%;
+    outline: none;
+
+    &:focus {
+      box-shadow: inset 2px 2px 0 var(--mac-light-gray), 0 0 0 2px var(--secondary);
+    }
+  }
+}
+
+/* ─────────────────────────────────────────────
+   DARK MODE TOGGLE BUTTON
+   ───────────────────────────────────────────── */
+.darkmode,
+.readermode {
+  background: var(--mac-light-gray);
+  border: 2px solid var(--mac-black);
+  box-shadow: 2px 2px 0 var(--mac-shadow);
+  padding: 3px 6px;
+  cursor: pointer;
+  transition: box-shadow 0.05s, transform 0.05s;
+
+  &:hover { background: var(--mac-white); }
+  &:active {
+    box-shadow: none;
+    transform: translate(2px, 2px);
+  }
+
+  svg { width: 16px; height: 16px; }
+}
+
+/* ─────────────────────────────────────────────
+   EXPLORER / FILE TREE — Mac Finder sidebar
+   ───────────────────────────────────────────── */
+.explorer {
+  padding: 0.5rem;
+  font-family: var(--bodyFont);
+  font-size: 12px;
+}
+
+.title-button {
+  font-family: var(--headerFont);
+  font-size: 16px;
+  letter-spacing: 0.06em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.5rem;
+  width: 100%;
+  color: var(--dark);
+
+  h2 { margin: 0; font-size: 16px; font-family: inherit; }
+  &:hover { background: var(--highlight); }
+}
+
+.explorer-ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    a {
+      display: block;
+      padding: 2px 6px 2px 18px;
+      text-decoration: none;
+      color: var(--dark);
+      font-size: 12px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+
+      &:hover {
+        background: var(--secondary);
+        color: var(--mac-white);
+      }
+
+      /* Finder-style doc icon prefix */
+      &::before {
+        content: '📄 ';
+        font-style: normal;
+        margin-left: -18px;
+        margin-right: 2px;
+      }
+    }
+  }
+}
+
+.folder-container {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  padding: 2px 4px;
+  font-size: 12px;
+  font-family: var(--bodyFont);
+
+  &::before { content: '📁 '; }
+  &:hover { background: var(--highlight); }
+}
+
+/* ─────────────────────────────────────────────
+   GRAPH VIEW — Mac network/relational diagram feel
+   ───────────────────────────────────────────── */
+.graph {
+  padding: 0.5rem;
+
+  h3 {
+    font-family: var(--headerFont);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 0.4rem;
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.2rem;
+    letter-spacing: 0.05em;
+  }
+}
+
+.graph-outer {
+  border: 2px solid var(--mac-black);
+  box-shadow: inset 0 0 0 1px var(--mac-white);
+}
+
+.global-graph-icon {
+  background: var(--mac-light-gray);
+  border: 2px solid var(--mac-black);
+  box-shadow: 2px 2px 0 var(--mac-shadow);
+  padding: 3px 6px;
+  cursor: pointer;
+  margin-top: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: box-shadow 0.05s, transform 0.05s;
+
+  &:hover { background: var(--mac-white); }
+  &:active { box-shadow: none; transform: translate(2px,2px); }
+
+  svg { width: 16px; height: 16px; }
+}
+
+/* ─────────────────────────────────────────────
+   FOOTER
+   ───────────────────────────────────────────── */
+footer {
+  padding: 0.6rem 1rem;
+  font-family: var(--bodyFont);
+  font-size: 11px;
+  color: var(--gray);
+  border-top: 1px solid var(--lightgray);
+  background: var(--mac-light-gray);
+  text-align: center;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.2rem 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+
+    li a {
+      color: var(--secondary);
+      text-decoration: none;
+      &:hover { text-decoration: underline; }
+    }
+  }
+}
+
+/* ─────────────────────────────────────────────
+   POPOVER / HOVER CARDS — Mac floating palette
+   ───────────────────────────────────────────── */
+.popover {
+  background: var(--light);
+  border: 2px solid var(--mac-black);
+  box-shadow: 4px 4px 0 var(--mac-shadow);
+  padding: 0;
+  overflow: hidden;
+
+  .popover-inner {
+    padding: 0.6rem;
+    font-size: 12px;
+  }
+}
+
+/* ─────────────────────────────────────────────
+   CALLOUT BOXES — Mac alert/note dialogs
+   ───────────────────────────────────────────── */
+.callout {
+  border: 2px solid var(--mac-black);
+  box-shadow: 2px 2px 0 var(--mac-shadow);
+  background: var(--mac-light-gray);
+  margin: 1rem 0;
+
+  .callout-title {
+    background: var(--mac-black);
+    color: var(--mac-white);
+    font-family: var(--headerFont);
+    font-size: 14px;
+    padding: 3px 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    user-select: none;
+    letter-spacing: 0.05em;
+  }
+
+  .callout-content {
+    padding: 0.75rem;
+    font-size: 12px;
+    background: var(--mac-white);
+
+    > p:first-child { margin-top: 0; }
+    > p:last-child  { margin-bottom: 0; }
+  }
+}
+
+/* ─────────────────────────────────────────────
+   TAGS
+   ───────────────────────────────────────────── */
+.tag-link, a.tag {
+  font-family: var(--bodyFont);
+  font-size: 11px;
+  background: var(--mac-light-gray);
+  border: 1px solid var(--mac-black);
+  padding: 1px 6px;
+  text-decoration: none;
+  color: var(--dark);
+  box-shadow: 1px 1px 0 var(--mac-shadow);
+  display: inline-block;
+  margin: 2px;
+
+  &:hover {
+    background: var(--secondary);
+    color: var(--mac-white);
+    box-shadow: none;
+    transform: translate(1px, 1px);
+  }
+}
+
+/* ─────────────────────────────────────────────
+   BACKLINKS & REFERENCES
+   ───────────────────────────────────────────── */
+.backlinks {
+  h3 {
+    font-family: var(--headerFont);
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.2rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    font-size: 12px;
+
+    li {
+      padding: 3px 0;
+      border-bottom: 1px solid var(--mac-mid-gray);
+
+      a {
+        color: var(--secondary);
+        text-decoration: none;
+        &:hover { text-decoration: underline; }
+      }
+    }
+  }
+}
+
+/* ─────────────────────────────────────────────
+   SCROLLBAR — Mac Classic feel
+   ───────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+::-webkit-scrollbar-track {
+  background: var(--mac-light-gray);
+  border-left: 1px solid var(--mac-black);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--mac-mid-gray);
+  border: 1px solid var(--mac-black);
+  box-shadow: inset 1px 1px 0 var(--mac-white);
+}
+::-webkit-scrollbar-button {
+  background: var(--mac-light-gray);
+  border: 1px solid var(--mac-black);
+  display: block;
+  height: 16px;
+  width: 16px;
+}
+::-webkit-scrollbar-corner {
+  background: var(--mac-light-gray);
+}
+
+/* ─────────────────────────────────────────────
+   TEXT SELECTION
+   ───────────────────────────────────────────── */
+::selection {
+  background: var(--secondary);
+  color: var(--mac-white);
+}
+
+/* ─────────────────────────────────────────────
+   DARK MODE OVERRIDES
+   ───────────────────────────────────────────── */
+[saved-theme="dark"] {
+  --mac-white:      #1a1a2e;
+  --mac-light-gray: #222240;
+  --mac-mid-gray:   #333355;
+  --mac-dark-gray:  #7777aa;
+  --mac-shadow:     rgba(0,0,0,0.6);
+  --mac-black:      #aaaacc;
+
+  body {
+    background-image: radial-gradient(circle, #2a2a4a 1px, transparent 1px);
+    background-size: 4px 4px;
+  }
+
+  article pre {
+    background: #0a0a1a;
+    code { color: #44ff88; }
+  }
+
+  article pre::before {
+    background: #333355;
+    color: #aaaacc;
+  }
+}
+
+/* ─────────────────────────────────────────────
+   RESPONSIVE — compact on small screens
+   ───────────────────────────────────────────── */
+@media (max-width: 900px) {
+  #quartz-body {
+    grid-template-columns: 1fr;
+  }
+
+  .left.sidebar,
+  .right.sidebar {
+    display: none;
+  }
+
+  .left.sidebar.mobile-sidebar,
+  .right.sidebar.mobile-sidebar {
+    display: block;
+  }
+}
+
+@media (max-width: 600px) {
+  #quartz-root {
+    margin: 0.5rem auto;
+  }
+
+  article {
+    padding: 1rem;
+  }
+}
