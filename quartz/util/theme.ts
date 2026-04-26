@@ -141,8 +141,31 @@ export async function processGoogleFonts(
 }
 
 export function joinStyles(theme: Theme, ...stylesheet: string[]) {
+  // Extract @import statements from all stylesheets
+  const importStatements: string[] = []
+  const otherStyles: string[] = []
+
+  for (const css of stylesheet) {
+    const lines = css.split('\n')
+    const imports: string[] = []
+    const others: string[] = []
+    
+    for (const line of lines) {
+      if (line.trim().startsWith('@import')) {
+        imports.push(line)
+      } else {
+        others.push(line)
+      }
+    }
+    
+    importStatements.push(...imports)
+    otherStyles.push(others.join('\n'))
+  }
+
   return `
-${stylesheet.join("\n\n")}
+${importStatements.join('\n')}
+
+${otherStyles.join("\n\n")}
 
 :root {
   --light: ${theme.colors.lightMode.light};
