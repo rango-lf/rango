@@ -1,5 +1,5 @@
 ---
-title: rango lf
+title: rango's site
 ---
 
 This is a blank Quartz installation.
