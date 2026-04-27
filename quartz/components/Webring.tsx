@@ -3,36 +3,10 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 export default (() => {
   const Webring = (_props: QuartzComponentProps) => {
     return (
-      <div
-        style={{
-          display: "flex",
-          alignItems: "center",
-          gap: "15px",
-          backgroundColor: "var(--light)",
-          padding: "5px 15px",
-          borderRadius: "8px",
-          border: "1px solid var(--lightgray)",
-        }}
-      >
-        
-          href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=prev"
-          style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}
-        >
-          ←
-        </a>
-        <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/" target="_blank">
-          <img
-            src="https://WebRing.skule.ca/img/icon.svg"
-            alt="SKULE WebRing"
-            style={{ width: "34px", height: "24px", marginBottom: "-6px" }}
-          />
-        </a>
-        
-          href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=next"
-          style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}
-        >
-          →
-        </a>
+      <div style={{ display: "flex", alignItems: "center", gap: "15px", backgroundColor: "var(--light)", padding: "5px 15px", borderRadius: "8px", border: "1px solid var(--lightgray)" }}>
+        <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=prev" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"&#8592;"}</a>
+        <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/" target="_blank"><img src="https://WebRing.skule.ca/img/icon.svg" alt="SKULE WebRing" style={{ width: "34px", height: "24px", marginBottom: "-6px" }} /></a>
+        <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=next" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"&#8594;"}</a>
       </div>
     )
   }
