@@ -8,8 +8,14 @@ I hope I can spend my academic career exploring as many fields, and as much of t
 **BASc in Industrial Engineering**  
 **University of Toronto** • 2025-2030  
 Minor in Artificial Intelligence Engineering
-### interests
+### academic & professional interests
 ---
 - **Artificial Intelligence & Machine Learning** — applications in medicine, materials development, and energy  
--  **Operations Research** — optimizing nuclear power and healthcare systems 
+- **Operations Research** — optimizing nuclear power and healthcare systems 
 - **Engineering Macroethics** — societal-level risks of technologies (e.g. AI, nuclear weapons, aerospace)
+### personal interests
+---
+- **Classics** — *The Iliad*, *The Odyssey*, etc.
+- **Writing** — Ask me about Dillon Malik Owen :)
+- **Video Games** — The Last of Us, Red Dead Redemption 2, Genshin Impact, Honkai Star Rail, Sims 4, etc.
+- **Musicals** — EPIC: The Musical, Hamilton, Mean Girls, Heathers, Dear Evan Hansen 
