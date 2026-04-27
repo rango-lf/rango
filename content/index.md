@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: rango's site
 ---
 
 This is a blank Quartz installation.
