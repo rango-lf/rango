@@ -1,5 +1,5 @@
 ---
-title: My Note
+title: aps162 propaganda
 date: 2025-09-23
 publish: true
 ---
@@ -34,17 +34,17 @@ Last, but certainly not least were **integration and applications of integratio
 
 ## what you do
 According to the 2025 syllabus, our final mark was broken down as the following:
-#### (15% total; 3% each) WeBWork
+#### (15% total; 3% each) webwork
 This was arguably the most annoying part of the course. WeBWork is an online homework program where required and optional practice questions for each unit were posted every week. I'm not sure if the question sets were pulled from a pre-made bank, or if the coordinator personally selected them, but I found them quite difficult and confusing—even moreso than the written assignments. WeBWork will mark your answer incorrectly if you have any formatting errors, which was painful to deal with. Fortunately, we were granted unlimited attempts for each problem set. Unfortunately, WeBWork is used by most of my current and future math classes, so get comfortable with this particular brand of suffering.
-#### (25% total; 5% each) Assignments
+#### (25% total; 5% each) assignments
 Assignments occupied the bulk of my time spent on coursework in this class. There were 5 in total, consisting of 3-5 very difficult questions. Since you are expected to spend a week completing each assignment, the problems were impossible or near-impossible to do without help from peers—so lean on them for help! The course utilizes a discussion forum platform called _Piazza_ where students can ask and answer each other's questions. Don't be a dingus like me; please ask for help as your peers are more than willing to provide it!
 
 All of the assignments were marked by TAs on Gradescope who, in my opinion, were quite fair with their expectations. I'd say the most important tip to achieve maximum marks is to show _all_ work clearly. This includes stating any theorems and rules you used (e.g. "by squeeze theorem", "use chain rule") as if you're walking someone step-by-step through solving the question. Also, box your answers and complete your work neatly (ask me how I know with my God-awful hand-writing).
-#### (20%) Modelling Essay
+#### (20%) modelling essay
 This was the assignment that made everyone crash out. We were given a list of pre-approved topics to explore in our essay and an example from a previous year to inform our essay structure. For the vast majority of the class, it was our first ever mathematical essay, which sounds like an oxymoron but is unfortunately very real. Topics ranged from geography to economics to physics applications—all requiring you to build mathematical models and then actually understand what they mean.
 
 The good news is that it's only 20% of your grade. The bad news is that it requires you to pretend you're a mathematician, a writer, and someone who understands the real world all at once. Choose your topic wisely, refer to previous essay examples, follow the formatting guidelines, and _start early_. I started my brainstorming and drafting a week before the essay was officially announced by the instructor. This isn't something you can bang out the night before. Please don't be like the guy in my class who livestreamed his essay speedrun at the final hour (it was funny though).
-#### (40%) Final
+#### (40%) final
 This exam is worth nearly half your grade and covers everything you've learned over the summer, and you need a minimum of 40% on it to pass the course. It's a 2-hour written exam that tests both your computational skills and your ability to solve application problems from all of the units.
 
 Here's where I get to share some delightful news: the exam was significantly more difficult in my year because, apparently, the previous year's exam wasn't deemed challenging enough. The coordinators looked at last year's results, said "these students are having too much fun," and decided to crank up the difficulty.
@@ -52,12 +52,12 @@ Here's where I get to share some delightful news: the exam was significantly mor
 I did total garbage, as in, I only completed maybe 5 questions with half-correct answers. Still, I passed with the power of bullshitting. Even if you have absolutely no clue how to complete a question, write down everything you can think of: your assumptions, the given information, any relevant formulas, and whatever logical steps you can muster. The TAs are surprisingly generous with part marks, and showing your thought process can save you from complete disaster. I learned this lesson too late, but you don't have to. Also, do as many practice exams as you can find, time yourself religiously, and maybe invest in some stress-relief activities for afterward.
 ## what i think
 After surviving this summer calculus gauntlet, here are my completely unbiased and definitely not trauma-influenced thoughts:
-#### THE GOOD:
+#### the good:
 - In the engineering program, you'll be basically completing new units every week: a summer course like APS162 helps you prepare for this fast and condensed pace. Think of it as training for academic whiplash.
 - The flexible schedule is genuinely nice. You can watch lectures at 2 AM in your pajamas if that's when your brain decides to function.
 - Getting MAT186 out of the way means one less course to worry about in first semester, and avoiding those 9 AM lectures.
 - The professor and TAs were generally helpful and responsive through tutorials, Piazza, and emails.
-#### THE REALITY CHECK:
+#### the reality check:
 - This course requires serious self-discipline. Without the structure of regular in-person classes, it's easy to fall behind.
 - The workload is no joke. This is a full university course compressed into 6 weeks.
 - If you're not strong in calculus, this might not be the confidence booster you're hoping for. It could actually be quite humbling (speaking from experience).

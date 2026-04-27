@@ -1,5 +1,5 @@
 ---
-title: My Note
+title: guide to first year fall courses
 date: 2026-02-14
 publish: true
 ---
@@ -19,8 +19,7 @@ The final test--which was scheduled ahead of finals period--consisted of a multi
 - Try to attend most of the lectures/tutorials and complete all assignments to pass, but it's not necessary to put more effort into this course beyond that (especially when you have 5 other courses).
 - Get to know your TA; these are upper-year students who've been in your shoes before and have plenty of insights on how make the best of your experience here.
 - Using past tests to study for the final may not be helpful, as they change the content of the test and the course material every year. I recommend going over lecture slides and using the study guide they will provide you.
-
-### APS110 / APS164 — Engineering Chemistry & Materials Science
+## APS110 / APS164 — Engineering Chemistry & Materials Science
 #### overview
 You will find that many of the concepts taught in this course are a continuation or repeat of what you learned in high school chemistry, with the addition of materials science. The first half of APS110 focuses on the behaviours and properties of materials (i.e. strain and stress, lattices and structures, imperfections, optics) whereas the second half covers chemistry concepts (i.e. electron configuration, thermodynamics, reaction rates, equilibrium). This course involves completing the online textbook questions, a couple of problem sets, online quizzes, one term test, and a final exam.
 #### thoughts
@@ -31,8 +30,7 @@ I found the materials science portion more challenging than the chemistry review
 - Write down important equations and indicate when and how to use them.
 - Do the textbook problems--they're a free 5% and help you understand the content. But when it comes to exam prep, focus more on the assignments, quizzes, and past exams since those better reflect the question style and difficulty.
 - Start studying early. There's a lot of content to cover and it's easy to fall behind if you cram everything last minute.
-
-### APS111 — Engineering Strategies & Practice I
+## APS111 — Engineering Strategies & Practice I
 #### overview
 ESP I is built around three pillars: Design, Communication, and Teamwork. You'll work through a semester-long design project with a randomly assigned team, producing deliverables like a Team Charter, Project Requirements document, and a Conceptual Design Specification. Individual assessments include an Engineering Observation, Problem Statement Quiz, Teamwork Analysis, Performance Review, and a final exam. The course is graded 60% individually and 40% as a team.
 
@@ -50,8 +48,7 @@ There are some easy marks to grab: PD (Professional Development) points are wort
 - Follow the assignment reference handbook and self-assessment lists closely for the PR and CDS.
 - Marking varies between sections, so figure out what your TA/CI prioritizes early on by asking questions regularly.
 - If you have a bad group, communicate early and often. Document everything (e.g. Google Docs edit history, chat logs, meeting minutes, etc.) and don't be afraid to reach out to your TA or CI for help mediating issues before they spiral.
-
-### CIV100 / APS160 — Mechanics
+## CIV100 / APS160 — Mechanics
 #### overview
 This course covers statics and dynamics--basically, how forces and motion work on structures and objects. You'll work through concepts like free body diagrams, equilibrium, trusses, beams, friction, kinematics, and Newton's laws. Assessments include weekly assignments, quizzes, a midterm, and a final exam.
 #### thoughts
@@ -65,7 +62,7 @@ I switched to the online equivalent of this course, APS160, which involves weekl
 - Weekly assignments are critical. They take a lot of time, but if you actually work through them yourself, you'll understand the content much better. Set aside a few hours each week to get them done without cramming.
 - Past exams are your best friend. The format doesn't change much year to year, and questions are often recycled or slightly modified.
 - If your professor isn't clicking for you, don't be afraid to use external resources. There are great YouTube channels and online tutorials that explain statics and dynamics concepts clearly.
-### MAT186 / APS162 — Calculus I
+## MAT186 / APS162 — Calculus I
 #### overview
 This course covers limits, continuity, derivatives, applications of derivatives, definite integrals, and the Fundamental Theorem of Calculus. Assessments include Pre-Class Essentials (short quizzes), two term tests, and a final exam. There's also a universal make-up test that can replace your lowest test grade if you write it.
 
