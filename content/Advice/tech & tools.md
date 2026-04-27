@@ -6,7 +6,7 @@
 - Sharp EL-520 (any suffix)
 ### laptop
 ---
-Invest wisely; your device needs to last 4+ years. Extras like an external mouse and webcam are helpful.
+Invest wisely; your device should last 4+ years. Extras like an external mouse and webcam are helpful.
 
 **Minimum specs based on application requirements:**
 - **Windows:** Intel or AMD 64-bit processor, at least 4 cores
