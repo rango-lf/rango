@@ -65,7 +65,7 @@ export default ((userOpts?: Partial<Options>) => {
 
     return (
       <div
-        class={classNames(displayClass, "navigation")}
+        class={classNames(displayClass, "explorer")}
         data-behavior={opts.folderClickBehavior}
         data-collapsed={opts.folderDefaultState}
         data-savestate={opts.useSavedState}
