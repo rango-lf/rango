@@ -1,0 +1,20 @@
+- Please see the Skule Mental Wellness' [page on failure stories](https://wellness.skule.ca/MyFailureStory). All of your professors and other Faculty staff have failed before. It is incredibly common; don't let it discourage you.
+- UofT Engineering is _difficult_, not _impossible_. [Mind your mindset](https://michael-hldr.github.io/advice/mind-your-mindset); the difference between struggling and drowning is how you talk to yourself about the struggle.
+- Take APS162 (Calculus I) over the summer. You'll enter fall with one less course and be better prepared for the fast pace. More details in my [APS162 blog post.](https://rango-lf.vercel.app/aps162-propaganda.html)
+- Imposter syndrome is a rite of passage. You'll feel like you don't deserve to be here while everyone around you seems effortlessly brilliant. News flash: they're all thinking the same thing.
+- _You are not alone._ The Skule community is incredibly supportive. I've never been turned down when asking for help from peers, upper-years in Discord servers, or alumni.
+- Reach out for support when you're struggling. Please don't wait until you're already drowning. The [First Year Office](https://undergrad.engineering.utoronto.ca/first-year-office-2/first-year-office/) offers academic advisors, review sessions, and counselling referrals.
+- Redefine success for yourself. Most of us came in with 90s from high school, but that is often unrealistic for most people here. 
+    - Maybe success is passing all your courses, maintaining hobbies, or just not having a breakdown. Whatever it is, be honest about whether it's achievable. The Dean's List isn't worth sacrificing your sanity.
+- Believe that you can do hard things. As cliché as it sounds, this is the best thing you can do for yourself.
+    - Professor Shai Cohen told us that every student has an inner critic saying "you can't do it", "you're stupid", "you don't belong", etc. This mindset causes most academic struggles. If you walk into an exam thinking you'll fail,  you probably will.
+    - Building self-confidence is a long battle. It gets easier every day, but you have to get up and push through every single day.
+    - If you can't talk yourself into "I can", just fake it. Lie to yourself until it becomes true.
+- Grades aren't everything. Getting your first sub-60 midterm is a reality check, but it's normal and expected.
+    - "Truss" (haha) the curve. A 55 might be above average in some courses. Check class statistics before spiraling.
+    - One bad grade, or even a bad semester, will not define your career. You have time to recover, and the majority of people do.
+    - Your mental and physical health are worth more than a few percentage points. Burning out for a marginally better GPA is a losing strategy.
+    - Many successful engineers I know barely scraped by in first year. Academic performance and real-world competence aren't perfectly correlated.
+- Please go outside and touch grass. Join clubs, attend EngSoc events, try hackathons, go to career fairs. These have been the best parts of my UofT experience!
+- Stay healthy. Eat veggies, drink water, take meds, practice hygiene, try sports, get enough sleep (at least 7-8 hours).
+    - _Do not_ use caffeine as a substitute for sleep. You'll screw yourself long-term by depending on energy drinks. (Anne if you're reading this, pay attention!)

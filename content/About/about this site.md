@@ -8,3 +8,10 @@ Many engineering upper-years have inspired and informed the content of this site
 - [Michael Hollander](https://michael-hldr.github.io/)
 - [Matthew Kong](https://mattkongnotes.vercel.app/)
 - [Sadman Hossain](https://sadman.ca/)
+- [Arnav Patil](https://arnav-patil-12.github.io/)
+- [Kenneth Hilton](https://abyx.dev/)
+
+### why "holy mackerel?"
+---
+See this poem: [*A Display of Mackerel*](https://rpo.library.utoronto.ca/content/display-mackerel)
+
