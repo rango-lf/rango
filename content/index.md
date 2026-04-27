@@ -1,6 +1,8 @@
 ---
-title: rango's site
+title: holy [mackerel!](https://rpo.library.utoronto.ca/content/display-mackerel)
 ---
+
+![](https://media.licdn.com/dms/image/v2/D4E16AQGZ37bN2l4h2A/profile-displaybackgroundimage-shrink_350_1400/B4EZw_0sqcI0AY-/0/1770597306128?e=1778716800&v=beta&t=Xhrsi5KOo5jPI7GuVshJEjDyCEitvLZ6hGqt3pW2EbQ)
 
 Hello, I'm **Rango LF**, a first-year student in the Department of Mechanical and Industrial Engineering at the University of Toronto.
 
