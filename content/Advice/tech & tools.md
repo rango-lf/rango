@@ -1,11 +1,10 @@
-### calculator
----
+***
+## calculator
 **Only these models are permitted during exams:**
 - Casio FX-991 (any suffix)
 - Sharp EL-W516 (any suffix)
 - Sharp EL-520 (any suffix)
-### laptop
----
+## laptop
 Invest wisely; your device should last 4+ years. Extras like an external mouse and webcam are helpful.
 
 **Minimum specs based on application requirements:**
@@ -20,8 +19,7 @@ Invest wisely; your device should last 4+ years. Extras like an external mouse a
 - Better port selection (HDMI, USB, etc.)
 - Easy to sync with Apple devices despite using Windows
 - MacOS causes constant issues for most engineering students. Please just go Windows.
-### tablet
----
+## tablet
 iPad, Samsung Galaxy Tab, or Microsoft Surface Pro tablets are great for note-taking and assignments.
 - No need to carry notebooks and stationery
 - Easy to insert slides, PDFs, images into notes

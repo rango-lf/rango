@@ -1,5 +1,6 @@
 > [!info] Please note that this is based on my experience living in Chestnut Residence during first-year
 
+***
 - Whether or not I'd recommend staying in residence heavily depends on your financial, social, and commuting situation. If your family can afford the cost of residence and you live a long way (i.e. 2+ hour commute) from campus--I'd recommend it, especially for first year.
 	- The main benefits of residence include being closer to campus and its amenities, being surrounded by peers, and gaining independence if this is your first time living alone. I found that all of these helped me transition into first year.
 	- Despite its pros, not living in residence *will not* make or break your first year experience. I know many commuters who managed to stay on top of their academics, social life, and extracurriculars with proper time management skills.

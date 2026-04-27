@@ -1,3 +1,4 @@
+***
 - Please see the Skule Mental Wellness' [page on failure stories](https://wellness.skule.ca/MyFailureStory). All of your professors and other Faculty staff have failed before. It is incredibly common; don't let it discourage you.
 - UofT Engineering is _difficult_, not _impossible_. [Mind your mindset](https://michael-hldr.github.io/advice/mind-your-mindset); the difference between struggling and drowning is how you talk to yourself about the struggle.
 - Take APS162 (Calculus I) over the summer. You'll enter fall with one less course and be better prepared for the fast pace. More details in my [APS162 blog post.](https://rango-lf.vercel.app/aps162-propaganda.html)
