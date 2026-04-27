@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "rango lf",
+    pageTitle: "🪴 Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,39 +16,39 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://rango-lf.github.io/rango",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "VT323",
-        body: "IBM Plex Mono",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light:      "#dddddd",   // window background (classic Mac gray)
-          lightgray:  "#aaaaaa",   // borders / dividers
-          gray:       "#888888",   // secondary text
-          darkgray:   "#222222",   // body text
-          dark:       "#000000",   // headings / strong text
-          secondary:  "#000080",   // links / accents (classic Mac blue)
-          tertiary:   "#0000aa",   // hover accents
-          highlight:  "rgba(0, 0, 128, 0.12)", // selection / highlight
-          textHighlight: "#ffff00",
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a98c",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
-          light:      "#1a1a2e",
-          lightgray:  "#333355",
-          gray:       "#7777aa",
-          darkgray:   "#ccccdd",
-          dark:       "#ffffff",
-          secondary:  "#88aaff",
-          tertiary:   "#aaccff",
-          highlight:  "rgba(136, 170, 255, 0.15)",
-          textHighlight: "#ffffaa",
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a98c",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
       },
     },
@@ -88,7 +88,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
