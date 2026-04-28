@@ -6,5 +6,11 @@
 ## What I Do
 I've been involved since Fall 2025 as a member of the Prototype Mechanical Team. This year (2026-27), I'll be part of the newly-established [Telemetry and Strategy Team](/Work--and--Projects/Projects/UTSM-(2025-)/UTSM-Telemetry--and--Strategy-Handbook).
 
+So far, I have:
+- Designed new physical components for the vehicle's battery and wiring using SolidWorks.
+- Designed a new, more efficient powertrain assembly; sprocket, chain tensioner, etc. using SolidWorks and Ansys.
+- Helped manufacture parts of the aerobody such as the windows and coating.
+- Worked on developing both on intuitive and data-driven driver strategy.
+
 
 

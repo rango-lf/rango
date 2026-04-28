@@ -15,7 +15,7 @@ In previous years, UTSM Prototype relied on intuition for race strategy. These w
 
 We're also entering the [Shell Eco-Marathon Data & Telemetry Off-Track Award](https://schmid-elektronik.ch/bootcamp-sem26/), sponsored by Schmid Elektronik, which rewards teams that develop the most rigorous and complete data-driven race strategy.
 ## What Skills You'll Build
-Think of this sub-team as a jack of all trades between Electrical & Powertrain, Aerospace, and Mechanical:
+Think of this sub-team as a jack of all trades between Electrical & Powertrain, Aerobody, and Mechanical:
 - **Software & data science** — Python, signal processing, GPS data, pandas, matplotlib
 - **Electrical** — understanding current, voltage, power, and energy measurements
 - **Physics & dynamics** — vehicle motion modelling, rolling resistance, acceleration forces, grade effects
