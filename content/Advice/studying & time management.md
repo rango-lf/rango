@@ -24,3 +24,11 @@ Your ideal study strategies will likely vary depending on the course, but I've o
 	- [Concept mapping](https://lsc.cornell.edu/how-to-study/concept-maps/)
 	- [Study schedules](https://lsc.cornell.edu/guidelines-for-creating-a-study-schedule/)
 	- [Tackling exam problems](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/exam-strategies-how-to-tackle-exam-questions-3/)
+
+## Productivity & Study Tools
+- [Google Calendar](https://calendar.google.com/) - free with a Google account
+	- Perfectly suited for my needs. I regularly use it to quickly access my time table details, track my to-do list, and time-bloc.
+- [Notion](https://www.notion.com/) - free with a Notion account
+	- Check out this [Notion template](https://paint-tractor-7ee.notion.site/Homebase-hankun-s-template-rev-1-16965582d36d801cb92ad476637c6811) designed for UofT Engineering students by Hankun.
+- [Anki](https://apps.ankiweb.net/) - free open-source flashcard program
+- [NotebookLM](https://notebooklm.google.com/) - AI-powered studying tools; free with a Google account
