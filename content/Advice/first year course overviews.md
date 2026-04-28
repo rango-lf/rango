@@ -1,9 +1,9 @@
 >[!info] This is accurate as of the 2025-2026 year. Course information and content is subject to change.
 
->[!note] Further details can be found in this [blog post](obsidian://open?vault=Blog&file=guide%20to%20first%20year%20fall%20courses)
+>[!note] Further details can be found in this [blog post](/Blog/2026/guide-to-first-year-fall-courses)
 
 ***
-## fall semester
+## Fall Semester
 #### APS100 — Orientation to Engineering
 
 | Difficulty | Workload |
@@ -89,5 +89,5 @@ Tips
 - Past midterms may not reflect your professor's style. Try to focus on PCEs and learning standards for exam prep
 - If you can, study ahead over the summer. This is the hardest course to recover in after you fall behind
 - If confused, go to Prof. Shai Cohen's office hours!
-## winter semester
+## Winter Semester
 >[!info] WIP!

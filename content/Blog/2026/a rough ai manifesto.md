@@ -4,11 +4,11 @@ To start, this is not a research-based essay on the impacts, ethics, and public 
 
 It should be noted that nothing I say here is a reflection of the thoughts, views, and policies of the University of Toronto. Do not use this to inform your understanding of the University's academic integrity policies. Please refer to the [official university guidelines on AI usage](https://ai.utoronto.ca/guidelines/).
 
-## at a glance
+## At a Glance
 Generative AI, and large language models (LLMs) in particular, are tools that produce text, code, images, and other outputs based on patterns learned from enormous datasets. In practice, they can answer questions, explain concepts, debug code, synthesize research, and carry on a conversation that feels remarkably human.
 
 My stance is that generative AI can be an incredibly helpful tool in education, provided it's used with some degree of intentionality. More importantly, I think this technology is an inevitable outcome of where computing has been heading for decades. Wishing it away, banning it, or pretending detection tools will solve anything is not a tangible response to this situation and anyone who thinks this way (respectfully) should not be taken seriously.
-## on cheating
+## On Cheating
 To be upfront, I am not encouraging anyone to cheat. Please do not ruin your academic career by violating the academic integrity policies. That being said, I hesitate to place a sweeping *moral value* on cheating without examining the context in which it occurs. 
 
 Cheating is a two-way street. You cannot meaningfully discuss the academic integrity of students without talking about the structural integrity--or lack thereof--from the educational institution itself. 
@@ -20,7 +20,7 @@ Add to that a job market that has worsened significantly across nearly every sec
 None of this excuses cheating. I'm not saying the system is broken, therefore anything goes. What *I am* saying is that if academic institutions are want to be serious about preventing cheating, especially in the age of tools that make it easier than ever, the conversation cannot start and end with "students should have more integrity." This is a comfortable thing to say--particularly because it asks nothing of the institution and the people (admin, professors, etc.) who uphold it. Real prevention requires restructuring post-secondary education into something that prioritizes the intellectual enrichment and wellbeing of students, not just their compliance and their tuition payments.
 
 And ultimately, yes; if someone chooses to cheat their way through a degree without learning anything, that is on them. They will eventually meet a wall that generative AI cannot climb for them. That accountability is real, but I do not want to keep pretending it exists in a vacuum.
-## ai as an equalizer
+## AI as an Equalizer
 One of the things I find most exciting about generative AI is the degree to which it can level an uneven playing field in education.
 
 For example, a student who cannot afford to hire a private tutor now has access to something that can explain a concept twelve different ways until one of them clicks, at two in the morning, for free. That matters. Not everyone has the same access to academic support, and pretending otherwise doesn't make it true.
@@ -30,14 +30,14 @@ For students with disabilities, the applications can be even more significant. T
 I could go on about more specific use cases, but even setting those aside: any student could benefit from being able to ask a very specific question and get a specific answer without having to schedule office hours, wait in a queue, or feel embarrassed about not knowing something. Lowering the friction around getting help is not a bad thing. 
 
 Lowering the amount of emotional, physical, and mental labour demanded from students is not a bad thing either. I won't go on a full socialist spiel just yet, but I firmly believe there is no moral good in human labor per se. Tying a person’s worth to their intellect, their productivity, their work ethic, or the output they can produce is deeply, deeply ableist, capitalistic and colonialist. This is a topic for another day, though I hope eventually we can all stop viewing productivity as a necessity for life.
-## where i use ai
+## Where I Use AI
 - I use generative AI to get hints on homework problems, but not full solutions. There's a  difference, and it requires some discipline to stay on the right side of that line, but it's worth it. The point is to get unstuck, without getting the full answer handed to you.
 - I use it to generate practice tests. This has been, seriously, one of the most useful applications I've found. When I started using Claude-generated practice tests for MAT188: Linear Algebra, my test scores improved noticeably. Being able to generate targeted, course-specific questions on demand, and then later check my understanding against them is something that used to require either a good study group or a lot of luck finding the right resources that match your exact syllabi.
 - I use it to debug and clean up code. It's faster and more precise than sifting through documentation for the third time.
 - I use it to get clearer explanations of concepts I'm still working through. Different framings of the same idea can unlock understanding in a way that re-reading the same textbook passage doesn't.
 - I use it to proofread and get feedback on written assignments, often with the rubric dropped directly into the prompt, so the feedback is calibrated to how the assignment will be assessed.
 - For research, many LLMs now have deep research functions that can surface highly specific keywords, papers, and data points much faster than manually combing through Google Scholar or the university library catalogue. For targeted literature searches, it saves a lot of time.
-## where there are concerns
+## Where there are Concerns
 The most frustrating experience I've had with AI in an academic context wasn't my own use of it. I had a teammate in a group project who submitted an entire section of our shared document written by ChatGPT without reviewing it first. The content was very wrong in several places. I had to spend a significant amount of time manually correcting errors that should never have made it into a shared document to begin with. It was unfair to everyone else on the team, and it created more work for me when I could have spent that time and energy elsewhere. **The point is, if you're going to use these tools, you are still responsible for what you submit. Full stop.**
 
 There's also a more self-directed version of this problem: if you use AI to spoil every homework problem for yourself, you may find yourself sitting in an exam with no actual understanding of the material. The tool can only carry you so far before you have to know the thing yourself.
@@ -45,7 +45,7 @@ There's also a more self-directed version of this problem: if you use AI to spoi
 Beyond individual misuse, there are more systemic effects worth pointing out. Academic dishonesty at this university has pushed many professors to restructure their syllabi toward higher-stakes exams and more difficult assessments. This is stressful for everyone, including the students who weren't misusing AI in the first place. A small number of people making poor choices has made the experience harder for the rest of the cohort. 
 
 And then there are broader concerns that extend beyond the classroom and into the "real-world": data privacy, the proliferation of deepfakes and synthetic misinformation, etc. I believe that these are serious issues that deserve engagement that is separate from the question of whether AI is useful for making a practice test.
-## to conclude
+## To Conclude
 Something I want to highlight before I wrap up is a new tool called [AskAlan](https://askalan.engineering.utoronto.ca/). This LLM assistant was developed right here, by students and faculty from the University of Toronto Faculty of Applied Science. Four ECE undergraduates partnered with [Professor Salma Emara](https://www.eecg.utoronto.ca/~salma/) to build an AI assistant designed specifically to support learning rather than shortcut it, using data directly from the courses' content on Quercus. 
 
 To quote their site directly:
