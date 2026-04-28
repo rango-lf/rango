@@ -1,0 +1,26 @@
+***
+Your ideal study strategies will likely vary depending on the course, but I've outlined some general tips below that have helped me in the past, or I wish I had done better.
+- The moment you receive your syllabus, put all your due dates (e.g. assignments, readings, labs, midterms, etc.) in an agenda and turn reminder notifications on. I personally use Google Calendar.
+	- APS100: Orientation to Engineering has a module on this that I found very helpful--please don't take it for granted!
+- *Start assignments as soon as possible*. The longer you leave them unfinished, the more likely you'll find yourself cramming last minute and producing sub-par results.
+- Review material on the same day it is taught; consistent review is much more effective than last-minute cramming.
+- Don't waste your time reviewing your notes, lecture slides, and textbook readings adnauseam. Most of your time should be spent actively practicing.
+- The single most effective strategy is reviewing the course material first, practicing with the given problem sets second, then move on to old tests (usually available on [courses.sklule.ca](https://courses.skule.ca/)) last.
+	- While practicing with old tests, try to put yourself in an examination environment.
+		- Move to a quiet area, turn off your phone, set a timer, clear any distractions, and don't stop writing until you're finished the practice test.
+- Start studying for midterms at least a week, or ideally two, ahead and in spaced increments. You'll have more time to cover all your bases, retain information, and find where you're still struggling.
+	- On that note, ensure your study schedule puts the most difficult aspects of the course first, then work down to the easier concepts and the ones you are already familiar with.
+- Find a study group that you can stay focused with. Learning from peers may be less confusing than learning from professors. You may also benefit from teaching concepts to others.
+- Use AI mindfully. It can be an incredibly helpful tool, but you should ensure that you're not spoiling your practice by prompting an LLM to just give you the answer every time.
+	- Some ways I've used genAI to improve my studying:
+		- Requesting practice tests by importing lecture notes, examples, and problem sets.
+		- Creating "crash course" notes to clarify challenging topics.
+		- Creating mind maps to visualise how different concepts connect.
+- Further reading on several study strategies:
+	- [Active recall](https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall)
+	- [Spaced practice](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/spaced-practice.html)
+	- [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+	- [The Feynman technique](https://fs.blog/feynman-technique/)
+	- [Concept mapping](https://lsc.cornell.edu/how-to-study/concept-maps/)
+	- [Study schedules](https://lsc.cornell.edu/guidelines-for-creating-a-study-schedule/)
+	- [Tackling exam problems](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/exam-strategies-how-to-tackle-exam-questions-3/)
