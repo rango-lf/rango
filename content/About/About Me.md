@@ -11,7 +11,7 @@ Minor in Artificial Intelligence Engineering
 ## Academic & Professional Interests
 - **Artificial Intelligence & Machine Learning** — applications in medicine, materials development, and energy  
 - **Operations Research** — optimizing nuclear power and healthcare systems 
-- **Engineering Macroethics** — societal-level risks of technologies (e.g. AI, nuclear weapons, aerospace)
+- **Engineering Macroethics** — societal-level risks and responsible use of technologies (e.g. AI, nuclear power, aerospace)
 ## Personal Interests
 - **Classics** — *The Iliad*, *The Odyssey*, etc.
 - **Writing** — Ask me about Dillon Malik Owen :)
