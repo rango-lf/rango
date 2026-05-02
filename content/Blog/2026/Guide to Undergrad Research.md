@@ -15,7 +15,15 @@ draft: true
 	- Pad your CV and resume
 	- Earn money
 	- Research work counts towards your [practical experience requirement](https://engineering.calendar.utoronto.ca/curriculum#practical).
-Being the top university in Canada for research, the University of Toronto puts you in an excellent position to dip your toes into academia. 
+## Getting into Research (Tips & Tricks)
+- If you're interested in a summer research position, start this process early--ideally around fall reading week
+	- Start contacting professors right after winter break or a couple weeks prior to fall finals season
+- It's good to already have in mind what fields and topics you are interested in
+	- Even if you don't, keep an open mind. I never thought I would be interested in healthcare, especially since I had not known about the intersection between engineering and healthcare, but I ended up getting a research position in that field
+- Look through your Department's research and faculty pages to see what research projects are available
+- You can also search professors by faculty and research interests through the UofT [Discover Research directory](https://discover.research.utoronto.ca/).
+- Keep track of professor's contact and details in a spreadsheet and/or Google doc
+- 
 ## Cold Email Example
 **Subject: Inquiry About Summer Research Opportunities in [Professor’s Area of Expertise]**
 
