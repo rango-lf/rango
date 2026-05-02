@@ -10,10 +10,10 @@ export default (() => {
           <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=next" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"➡️"}</a>
         </div>
 
-        <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+        <div style={{ display: "flex", alignItems: "center", gap: "8px", borderRadius: "8px", border: "1px solid var(--lightgray)" }}>
           <a href="https://uoftwebring.com/redirect?nav=prev&id=49" aria-label="Previous site in UofT Webring">←</a>
           <a href="https://uoftwebring.com" target="_blank">
-            <img src="https://uoftwebring.com/ring_logo.svg" alt="UofT Webring" style={{ width: "24px", height: "auto" }} />
+            <img src="https://uoftwebring.com/ring_logo.svg" alt="UofT Webring" style={{ width: "44px", height: "44px" }} />
           </a>
           <a href="https://uoftwebring.com/redirect?nav=next&id=49" aria-label="Next site in UofT Webring">→</a>
         </div>
