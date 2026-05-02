@@ -8,6 +8,26 @@ export default (() => {
         <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/" target="_blank"><img src="https://WebRing.skule.ca/img/icon.svg" alt="SKULE WebRing" style={{ width: "44px", height: "34px"}} /></a>
         <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=next" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"➡️"}</a>
       </div>
+
+      <div style="display: flex; align-items: center; gap: 8px">
+    <a
+        href="https://uoftwebring.com/redirect?nav=prev&id=49"
+        aria-label="Previous site in UofT Webring"
+        >←</a
+    >
+    <a href="https://uoftwebring.com" target="_blank">
+        <img
+            src="https://uoftwebring.com/ring_logo.svg"
+            alt="UofT Webring"
+            style="width: 24px; height: auto"
+        />
+    </a>
+    <a
+        href="https://uoftwebring.com/redirect?nav=next&id=49"
+        aria-label="Next site in UofT Webring"
+        >→</a
+    >
+</div>
     )
   }
 
