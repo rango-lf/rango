@@ -1,6 +1,10 @@
 ***
 > [!info] The following guide only covers the courses I took as an MIE student.
 
+At some point in your first year, you will find at least one person who claims that winter semester will be easier than fall semester. This is true in the sense that after fall semester, you will likely be better equipped with the skills and discipline to tackle your academic demands, but I personally found winter semester much more difficult in content and marking. 
+
+As established in my previous blog post, I will start with an introduction to the material, how grades are assessed, a bit about my experience, and my tips on surviving it. Please keep in mind that my experience/opinions are not universal, and you need to consider what is best for you personally to succeed academically.
+
 At some point in your first year, you will find at least one person who claims that winter semester will be easier than fall semester. This is true in the sense that after fall semester, you will likely be better equipped with the skills and discipline to tackle your academic demands, but I personally found winter semester much more difficult in content and marking.
 
 As established in my previous blog post, I will start with an introduction to the material, how grades are assessed, a bit about my experience, and my tips on surviving it. Please keep in mind that my experience/opinions are not universal, and you need to consider what is best for you personally to succeed academically.

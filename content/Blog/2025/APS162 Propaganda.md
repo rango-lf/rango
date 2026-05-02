@@ -1,5 +1,5 @@
 ---
-title: APS162 Propaganda
+title: aps162 propaganda
 date: 2025-09-23
 publish: true
 ---
