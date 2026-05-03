@@ -1,23 +1,24 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
+
 
 export default (() => {
   const Webring = (_props: QuartzComponentProps) => {
     return (
       <>
-        <div class={classNames(displayClass, "webrings")}>
-          <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "10px", backgroundColor: "var(--light)", padding: "5px 10px", borderRadius: "8px", border: "1px solid var(--lightgray)" }}>
-            <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=prev" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"⬅️"}</a>
-            <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/" target="_blank"><img src="https://WebRing.skule.ca/img/icon.svg" alt="SKULE WebRing" style={{ width: "44px", height: "44px" }} /></a>
-            <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=next" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"➡️"}</a>
-          </div>
+      <h3>Webrings</h3>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "10px", backgroundColor: "var(--light)", padding: "5px 10px", borderRadius: "8px", border: "1px solid var(--lightgray)" }}>
+          <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=prev" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"⬅️"}</a>
+          <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/" target="_blank"><img src="https://WebRing.skule.ca/img/icon.svg" alt="SKULE WebRing" style={{ width: "44px", height: "44px" }} /></a>
+          <a href="https://WebRing.skule.ca/#https://rango-lf.github.io/rango-lf/?nav=next" style={{ color: "var(--dark)", textDecoration: "none", fontSize: "16px" }}>{"➡️"}</a>
+        </div>
 
-          <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "8px", borderRadius: "8px", border: "1px solid var(--lightgray)" }}>
-            <a href="https://uoftwebring.com/redirect?nav=prev&id=49" aria-label="Previous site in UofT Webring">←</a>
-            <a href="https://uoftwebring.com" target="_blank">
-              <img src="https://uoftwebring.com/ring_logo.svg" alt="UofT Webring" style={{ width: "44px", height: "44px" }} />
-            </a>
-            <a href="https://uoftwebring.com/redirect?nav=next&id=49" aria-label="Next site in UofT Webring">→</a>
-          </div>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "8px", borderRadius: "8px", border: "1px solid var(--lightgray)" }}>
+          <a href="https://uoftwebring.com/redirect?nav=prev&id=49" aria-label="Previous site in UofT Webring">←</a>
+          <a href="https://uoftwebring.com" target="_blank">
+            <img src="https://uoftwebring.com/ring_logo.svg" alt="UofT Webring" style={{ width: "44px", height: "44px" }} />
+          </a>
+          <a href="https://uoftwebring.com/redirect?nav=next&id=49" aria-label="Next site in UofT Webring">→</a>
         </div>
       </>
     )
