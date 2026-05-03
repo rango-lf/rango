@@ -1,6 +1,7 @@
 ***
-![174](https://ibb.co/JjLRXgBM)
 > [!info] WORK IN PROGRESS
+
+![](https://media.licdn.com/dms/image/v2/D4E22AQHGL_1kLmyTBQ/feedshare-image-high-res/B4EZ1WGwCFHUAU-/0/1775266104689?e=1779321600&v=beta&t=ol7St6E-3MI_FFPdtmnzQcoaMnsQIVZGgQiz1N8wE5A)
 ## What?
 [University of Toronto Supermileage (UTSM)](https://www.utsm.ca/) is a student-led design team that designs, fabricates, and races hyper fuel-efficient vehicles. We currently have two teams: a Prototype class Battery Electrical vehicle and an Urban Concept class Hydrogen Fuel Cell vehicle. We compete in the annual [Shell Eco Marathon Americas (SEMA)](https://www.shellecomarathon.com/) competition in Indianapolis. 
 ## What I Do

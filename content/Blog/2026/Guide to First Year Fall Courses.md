@@ -1,5 +1,5 @@
 ---
-title: guide to first year fall courses
+title: Guide to First Year Fall Courses
 date: 2026-02-14
 publish: true
 ---
