@@ -8,6 +8,11 @@ Many engineering upper-years have inspired and informed the content of this site
 - [Sadman Hossain](https://sadman.ca/)
 - [Arnav Patil](https://arnav-patil-12.github.io/)
 - [Kenneth Hilton](https://abyx.dev/)
-## Why "Holy Mackerel?"
+## "Frequently Asked Questions"
+#### "I found an error/mistake/dead link/inaccurate information/etc."
+Please [email](mailto:rango.leefu@mail.utoronto.ca) me with this site in the subject line and the specific area of concern in the body. I appreciate it!
+#### "Did you write that one Shai Cohen fanfiction?"
+Yes.
+#### "Why 'holy mackerel'?"
 See this poem: [*A Display of Mackerel*](https://rpo.library.utoronto.ca/content/display-mackerel)
 

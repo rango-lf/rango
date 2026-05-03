@@ -1,0 +1,2 @@
+***
+- Although this was originally written for mathematics, these [ground rules](https://sites.google.com/view/schinelladsouza/ground-rules?authuser=0) should be upheld to ensure engineering is an inclusive and positive space for everyone. 
