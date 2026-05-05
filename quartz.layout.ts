@@ -39,6 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.Flag(),
     Component.Explorer(),
   ],
   right: [
