@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          <img src="https://rainy.gay/pride/bv/progress.png" alt="Progress Pride Flag" style="height: 34px"/>
+          <img src="https://rainy.gay/pride/bv/progress.png" alt="Progress Pride flag with rainbow stripes and a chevron for marginalized communities" style="height: 34px"/><img src="https://rainy.gay/pride/bv/trans.png" alt="Transgender pride flag with blue pink and white stripes" style= "height: 34px"/>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
