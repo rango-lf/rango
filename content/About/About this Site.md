@@ -7,7 +7,7 @@ Many engineering upper-years have inspired and informed the content of this site
 - [Matthew Kong](https://mattkongnotes.vercel.app/)
 - [Sadman Hossain](https://sadman.ca/)
 - [Arnav Patil](https://arnav-patil-12.github.io/)
-- [Kenneth Hilton](https://abyx.dev/)
+- [AbyxDev](https://abyx.dev/)
 ## "Frequently Asked Questions"
 #### "I found an error/mistake/dead link/inaccurate information/etc."
 Please [email](mailto:rango.leefu@mail.utoronto.ca) me with this site in the subject line and the specific area of concern in the body. I appreciate it!
