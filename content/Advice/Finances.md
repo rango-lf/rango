@@ -17,7 +17,7 @@
 - Free [Notion Pro](https://www.notion.com/product/notion-for-education)
 - r/Piracy Wiki Megathread for digital media (shhh...)
 ## Financial Aid
->[!note] Please mind that many of these may only be available for Canadian citizens and Permanent Residents (PRs)
+>[!info] Please mind that many of these may only be available for Canadian citizens and Permanent Residents (PRs)
 
 - If you need to seek financial advice, please reach out to the [Faculty's financial advisor](https://undergrad.engineering.utoronto.ca/fees-financial-aid/u-of-t-engineering-scholarships-financial-aid-office/) as soon as possible.
 - If you are receiving government student aid (citizens/PRs only), apply for [UTAPS](https://www.registrar.utoronto.ca/financial-aid-awards/utaps/) to receive grants for unmet financial need.
