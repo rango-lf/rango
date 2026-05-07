@@ -1,5 +1,6 @@
 ---
 aliases:
+draft: "true"
 ---
 ***
 If you're on this page, I presume it is because you want to learn more about me as a person/idea/philosophy/enigma/social experiment/etc. aside from my academic and professional pursuits. **This page will more-or-less be a long, slightly self-obsessed ramble about the stories and views that have shaped who I am and my approach to engineering.**
