@@ -1,0 +1,14 @@
+***
+- UofT's infamous reputation for having a "depressing" or "non-existent" student life is largely inaccurate, especially in regards to the Skule community
+- I would strongly, strongly recommend participating in a student club or design team; this is how I met most of my good friends in first year
+	- Clubs, particularly design teams, are fantastic for building applied engineering skills (...and padding your resume heh heh)
+	- All student organizations associated with the Engineering Society can be found on the [Skule website](https://skule.ca/get-involved/affiliated_clubs.html)
+	- All student organizations associated with UofT can be found in the [Student Organization Portal](https://sop.utoronto.ca/groups/)
+- If you are interested in getting involved in [EngSoc](https://skule.ca/about/engsoc.html), there is a vast variety of roles available  
+	- Want to be responsible for representing the interests of your peers? Apply to be a candidate for a [Governing Member position](https://skule.ca/about/governing-members.html). This position is elected by members of the student body
+	- Want to be responsible for a specific initiative or project? Apply to be a candidate for a [Directorship position](https://skule.ca/get-involved/directorships.html). This position is elected by EngSoc Council members
+	- There are other diverse opportunities--such as neutral officer and committee positions--that are announced throughout the year
+- I have personally found participating in EngSoc fulfilling, enjoyable, and welcoming for the most part. However, like most political affairs, you will often find interpersonal conflicts, leadership struggles, and ideological differences that may cause disruption and/or division.  
+	- My best advice for you is to remain resolute in what you believe is right, even if you face opposition
+	- If you find a member of EngSoc violating the [Bylaws](https://skule.ca/about/governing-documents.html) or otherwise making decisions that are neither ethical nor appropriate, please document their actions precisely and report them to the [Ombudsperson](mailto:ombudsperson@skule.ca)
+- Sign up for a [Student Life Newsletter](https://studentlife.utoronto.ca/student-life-newsletters/)to stay in-the-know of different opportunities across campus
