@@ -1,4 +1,4 @@
-> [!info] Check out the [Skule Commuter Students Directorship](https://commuter.skule.ca/resources-tips) for more info!
+> [!info] Check out the [Skule Commuter Students Directorship](https://commuter.skule.ca/resources-tips) and [Michael Hollander's page](https://michael-hldr.github.io/advice/commuting) for more info!
 
 ***
 - Be productive on your commute if possible (if you don't get motion sick). For 40+ minute commutes, do light work, read, or catch up on sleep.
@@ -28,6 +28,6 @@
 - Download TTC Watch app and check [TTC website](https://www.ttc.ca/service-alerts) for real-time tracking.
 - Four stations near campus: Queen's Park (closest to Engineering), Museum, St. George, Spadina.
 	- From Finch side (Line 1), walk from College station (12 minutes). This may save time versus riding to Queen's Park.
-- Homeless people are a common sight on the TTC, but are generally harmless. However, please remain vigilant and don't be afraid of moving seats or sitting with other people if you feel uncomfortable. 
+- Homeless people are a common, generally harmless sight on the TTC. However, please remain vigilant and don't be afraid of moving seats or sitting with other people if you feel uncomfortable. 
 	- Some unhoused people may approach you for money. I've never been harassed for *politely* refusing. Just be decent; the chances of an adverse interaction are low if you remain calm and respectful.
 	- For reporting non-immediate safety issues, text Transit Control at **647-496-1940**, use the [SafeTTC app](https://www.ttc.ca/riding-the-ttc/safety-and-security/safe-ttc-app), or use the online webform
