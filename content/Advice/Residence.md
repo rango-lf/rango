@@ -18,6 +18,8 @@
 - Try to select a lower floor (1-10) if possible. You do not want to climb 15-30 flights of stairs if a fire alarm goes off or the elevators are down.
 - Good friends do not necessarily make good roommates. Prioritise similar sleeping habits, cleanliness standards, academic program, etc. over shared interests/history. Keep in mind you'll be living with this person for at least 8 months.
 	- Communicate regularly with your roommate regarding expectations, concerns, etc. Don't let issues fester.
+- Create a spreadsheet to keep track of what you're packing for move-in.
+	- Here's an [example](https://docs.google.com/spreadsheets/d/1fdCDIjVNXEGwoe2ll3nNReJ_2AwNlmGrilOGL6F7x5A/edit?gid=0#gid=0) I used.
 - Other than the necessities, here's what else I'd recommend adding to your dorm:
 	- Air purifier - dorm rooms can get quite stuffy and dusty. I got one from IKEA for relatively cheap.
 	- Shoe rack and mat
