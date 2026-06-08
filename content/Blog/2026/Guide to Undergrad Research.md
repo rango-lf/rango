@@ -31,22 +31,22 @@ Cold-emailing is probably the best way to reach out to a professor for research 
 
 **Subject: Inquiry About Summer Research Opportunities in [Professor’s Area of Expertise]**
 
-Dear Prof/Dr. [name],
-
-I hope this email finds you well.
-
-My name is [name] and I am a [major] student at UofT. I am deeply interested in [specific area of research], and I am eager to gain hands-on experience in research that aligns with your work on [mention a specific project, paper, or area from their research].
-
-I have been developing a strong foundation in [relevant coursework or skills, e.g., 3D printing, CAD modeling, MATLAB programming], and I am highly motivated to contribute to your team’s ongoing projects. I am particularly drawn to your research because [briefly explain why—impact, innovation, or personal interest].
-
-Would you be open to discussing potential opportunities for me to assist in your lab during [term & year]? I am flexible regarding the scope of work and willing to learn quickly to meet your expectations. I can provide my resume and transcript upon request.
-
-Thank you for considering my inquiry.
-
-Best regards,
-[name & pronouns]
-[email]
-[department of study]
+> Dear Prof/Dr. [name],
+> 
+> I hope this email finds you well.
+> 
+> My name is [name] and I am a [major] student at UofT. I am deeply interested in [specific area of research], and I am eager to gain hands-on experience in research that aligns with your work on [mention a specific project, paper, or area from their research].
+> 
+> I have been developing a strong foundation in [relevant coursework or skills, e.g., 3D printing, CAD modeling, MATLAB programming], and I am highly motivated to contribute to your team’s ongoing projects. I am particularly drawn to your research because [briefly explain why—impact, innovation, or personal interest].
+> 
+> Would you be open to discussing potential opportunities for me to assist in your lab during [term & year]? I am flexible regarding the scope of work and willing to learn quickly to meet your expectations. I can provide my resume and transcript upon request.
+> 
+> Thank you for considering my inquiry.
+> 
+> Best regards,
+> [name & pronouns]
+> [email]
+> [department of study]
 
 Some other things to keep in mind:
 - Always use your UofT email(!!!)
