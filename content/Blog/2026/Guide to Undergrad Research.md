@@ -26,6 +26,10 @@ Make sure you **start early**. If you are interested in a summer research positi
 **Do your research on the research**. Browse your department's research and faculty pages to see what projects are active. You can also search professors by faculty and research interests through the UofT [Discover Research directory](https://discover.research.utoronto.ca/). Look for work that actually interests you, as professors want students who are enthusiastic about their field of study.
 
 **Stay organized.** This is not universally necessary, but I found it helpful to keep track of professor's contact info, research areas, and any notes in a spreadsheet or Google Doc. It makes follow-up much easier and helps you personalize each email.
+
+Some professors will request to see your **transcript and/or CV/resume**, as they may have a GPA cut-off for undergrad researchers or they just want to make sure you aren't failing. It is best to have those two documents prepared before contacting them. Your unofficial transcript can be found on your [ACORN account](https://www.registrar.utoronto.ca/records-academics/transcripts/). 
+
+Also, **some professors may request an interview with you**. The nature of this interview varies greatly depending on the person, but regardless I'd suggest preparing some notes that include your research interests, what you hope to get out of research, skillsets you can bring to their lab, etc. My supervisor was very chill, it was basically like a conversation where she asked me about my first year experience and why I chose to attend UofT.
 ## Cold Email Example
 Cold-emailing is probably the best way to reach out to a professor for research opportunities. Keep it concise, enthusiastic, and specific. Below is a template to work from, but please ensure you tailor it for each professor/lab:
 
