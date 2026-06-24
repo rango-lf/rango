@@ -1,8 +1,7 @@
 ***
 
 ![280](https://skulepedia.ca/w/images/thumb/1/1d/Rangolf.jpg/300px-Rangolf.jpg)
-
-Most people call me Rango, but other variations of my name include "Commander", Django", "Tango", and "Rambo". I prefer masculine terminology (he/him) when referring to me online. In-person, I don't care.
+Most people call me Rango, but other variations of my name include "Commander", Django", "Tango", and "Rambo". I prefer masculine terminology (he/him) when referring to me.
 
 Currently, I intend on completing a BASc in [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering), followed by a MASc and PhD (discipline/field still undecided). Eventually, I'd like to become an engineering professor, or work in the industry as an R&D engineer.
 
