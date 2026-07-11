@@ -25,3 +25,5 @@ iPad, Samsung Galaxy Tab, or Microsoft Surface Pro tablets are great for note-ta
 - No need to carry notebooks and stationery
 - Easy to insert slides, PDFs, images into notes
 - Sync notes across devices for access on phone and laptop
+- Easier to organize and find notes
+An expensive device is not particularly necessary. Any tablet with a pen will suffice.
