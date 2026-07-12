@@ -5,7 +5,7 @@
 - Sharp EL-W516 (any suffix)
 - Sharp EL-520 (any suffix)
 ## Laptop
-Invest wisely; your device should last 4+ years. Extras like an external mouse, headphones, and webcam are helpful.
+Invest wisely; your device should last 4+ years. Extras like an external mouse, headphones, and webcam are helpful for comfort and usability.
 
 **Minimum specs based on application requirements:**
 - **Windows:** Intel or AMD 64-bit processor, at least 4 cores
@@ -17,10 +17,11 @@ Invest wisely; your device should last 4+ years. Extras like an external mouse, 
 - Compatible with all engineering software (e.g. SOLIDWORKS, Altium, etc.)
 - Easy to set up dual-boots
 - Better port selection (e.g. HDMI, USB, etc.)
-- Easy to sync Windows with Apple devices
+- Easy to sync Windows with Apple devices (e.g. Phone Link)
 - [Remote access](https://undergrad.engineering.utoronto.ca/campus-facilities/engineering-computing-facility-ecf/remote-access/) to an ECF Windows/Linux computer is possible using Mac, but devices are not always available and performance can be incredibly slow
-- MacOS causes constant issues for most engineering students. Please just go with  Windows.
-  
+
+MacOS causes constant issues for most engineering students, except maybe those in CompE. If you are buying a new laptop for school, I'd urge you to go with Windows unless there are strong reasons for you to purchase a Mac (e.g. you already have one, you're locked into the ecosystem, etc.)
+
 ## Tablet
 Although it is not necessary, an iPad, Samsung Galaxy Tab, or Microsoft Surface Pro tablets is great for note-taking and assignments.
 - No need to carry notebooks and stationery
