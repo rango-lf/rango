@@ -32,7 +32,7 @@
 	- Many rooms suffer from mold, rust, and leaks..
 	- Laundry is expensive and machines break regularly
 	- A fire alarm going off in the middle of the night is to be expected at some point during your stay.
-- Chestnut operates on a all-you-can-eat swipe plan. You may choose between a 14 swipe per week or unlimited plan which , in my opinion, is quite overpriced for the (lack of) quality and diversity of food offered.
+- Chestnut operates on an all-you-can-eat swipe plan. You may choose between a 14 swipe per week or unlimited plan which , in my opinion, is quite overpriced for the (lack of) quality and diversity of food offered.
 	- You can use your meal plan in the Oak House, CampusOne, and New College dining halls 3 times a week.
 - Try to select a lower floor (1-10) if possible. You do not want to climb 15-30 flights of stairs if a fire alarm goes off or the elevators are down.
 
