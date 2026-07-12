@@ -16,14 +16,15 @@ Your ideal study strategies will likely vary depending on the course, but I've o
 		- Requesting practice tests by importing lecture notes, examples, and problem sets.
 		- Creating "crash course" notes to clarify challenging topics.
 		- Creating mind maps to visualise how different concepts connect.
-- Further reading on several study strategies:
-	- [Active recall](https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall)
-	- [Spaced practice](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/spaced-practice.html)
-	- [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
-	- [The Feynman technique](https://fs.blog/feynman-technique/)
-	- [Concept mapping](https://lsc.cornell.edu/how-to-study/concept-maps/)
-	- [Study schedules](https://lsc.cornell.edu/guidelines-for-creating-a-study-schedule/)
-	- [Tackling exam problems](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/exam-strategies-how-to-tackle-exam-questions-3/)
+
+## Select Study Strategies
+- [Active recall](https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall)
+- [Spaced practice](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/spaced-practice.html)
+- [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+- [The Feynman technique](https://fs.blog/feynman-technique/)
+- [Concept mapping](https://lsc.cornell.edu/how-to-study/concept-maps/)
+- [Study schedules](https://lsc.cornell.edu/guidelines-for-creating-a-study-schedule/)
+- [Tackling exam problems](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/exam-strategies-how-to-tackle-exam-questions-3/)
 
 ## Productivity & Study Tools
 - [Google Calendar](https://calendar.google.com/) - free with a Google account
