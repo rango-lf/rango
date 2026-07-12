@@ -20,11 +20,13 @@ Invest wisely; your device should last 4+ years. Extras like an external mouse, 
 - Easy to sync Windows with Apple devices
 - [Remote access](https://undergrad.engineering.utoronto.ca/campus-facilities/engineering-computing-facility-ecf/remote-access/) to an ECF Windows/Linux computer is possible using Mac, but devices are not always available and performance can be incredibly slow
 - MacOS causes constant issues for most engineering students. Please just go with  Windows.
+  
 ## Tablet
-iPad, Samsung Galaxy Tab, or Microsoft Surface Pro tablets are great for note-taking and assignments.
+Although it is not necessary, an iPad, Samsung Galaxy Tab, or Microsoft Surface Pro tablets is great for note-taking and assignments.
 - No need to carry notebooks and stationery
 - Easy to insert slides, PDFs, images into notes
 - Sync notes across devices for access on phone and laptop
 - Easier to organize and find notes
-  
-An expensive device is not particularly necessary. Any tablet with a pen will suffice.
+
+Some people prefer to write things with pencil and paper, some people prefer pen and tablet, and some people prefer to type. The best note-taking device will really vary by person. I would still try a tablet if you are willing (i.e., test a demo at the Apple Store) and see how you feel about it.
+
