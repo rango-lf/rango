@@ -12,9 +12,16 @@
 - [Past tests and exams](https://www.math.utoronto.ca/burbulla/detailed/) for MAT188, MAT187, MAT186
 - [Guide to UofT course codes](https://docs.google.com/document/d/1on4LkDt-TJiRzdiBEbudW1rjmzBU3TZcCoz8O7cQUMo/edit)
 - [Paul's Online Notes](https://tutorial.math.lamar.edu/) - tutorials, practice problems, and cheat sheets for calculus
+## First Year Lecture Playlists
+- [APS110](https://www.youtube.com/playlist?list=PLKdCf_U3EFlRqOrxrfcy3P3gg5RtMlZDF) - Engineering Chemistry and Materials Science
+- [CIV100](https://www.youtube.com/playlist?list=PLKdCf_U3EFlQiZd090ECKD3tbgDOf1N7r) - Mechanics
+- [MAT188](https://www.youtube.com/playlist?list=PLluf7eor18deueQx8TDXAR8sOaztJ6VAi) - Linear Algebra
+- [ECE110](https://www.youtube.com/playlist?list=PLluf7eor18dfpLjEXt2sRxep8g-bdWSur) - Electrical Fundamentals
+- [MIE100](https://www.youtube.com/playlist?list=PLqZT6aTtr7BGG7CuUMvTr3c54XPHe4j84) - Dynamics
+- [APS105](https://www.youtube.com/playlist?list=PLunILarQwxnma-0Z_0DZ3nkWKpZN7HGbw) - Computer Fundamentals
 ## Academic Services
-- [engSuccess Mentors](https://undergrad.engineering.utoronto.ca/skule-life/the-engineering-portal/) - upper-year peer mentors for time management, note-taking, and academic challenges
-- [Guide to First Year](https://firstyear.engineering.utoronto.ca/preparing-for-university/) - academic support info, pre-school prep, summer learning
+- [engSuccess Mentors](https://undergrad.engineering.utoronto.ca/skule-life/the-engineering-portal/) - upper-year peer mentors for guidance on time management, note-taking, and academic challenges
+- [Guide to First Year](https://firstyear.engineering.utoronto.ca/preparing-for-university/) - academic support info, pre-school prep, summer learning opportunities
 - [Engineering Academic Calendar](https://engineering.calendar.utoronto.ca/) - program requirements, courses, regulations
 - [Engineering Student Portal](https://undergrad.engineering.utoronto.ca/skule-life/the-engineering-portal/) - petitions, program transfers, letters
 - [Skule Tutors](https://undergrad.engineering.utoronto.ca/skule-life/the-engineering-portal/) - PhD and MASc students for paid tutoring; overseen directly by EngSoc
