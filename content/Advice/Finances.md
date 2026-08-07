@@ -3,6 +3,7 @@
 > [!info] Most of these require your TCard or student email.
 
 - [UTSU's extensive list](https://www.utsu.ca/utsu-student-perks-discounts/) of student perks and discounts
+- Free bike repair workshops and rentals from [Bike Chain](https://bikechain.ca/)
 - 10% off groceries over $50 at Maisie's Independent City Market (Manulife Centre, Bay & Bloor) on Tuesdays only
 - Free student Tuesdays at Royal Ontario Museum
 - 15% discount at Shopper's Drug Mart on Bloor St.
