@@ -11,9 +11,12 @@
 - [F!rosh Anti-Calendar](https://courses.skule.ca/anticalendar/frosh) - reviews and tips for each course; some info may be outdated
 - [First-year textbooks Drive](https://drive.google.com/drive/folders/17R2Jvm-g4l6a4w681e8LFXGSkAWMDTGg) - Please check your syllabus for correct edition
 - [Past tests and exams](https://www.math.utoronto.ca/burbulla/detailed/) for MAT188, MAT187, MAT186
+- [DownHat](https://downhat.pages.dev/) - alternative APS110 textbook viewer
 - [Guide to UofT course codes](https://docs.google.com/document/d/1on4LkDt-TJiRzdiBEbudW1rjmzBU3TZcCoz8O7cQUMo/edit)
 - [Paul's Online Notes](https://tutorial.math.lamar.edu/) - tutorials, practice problems, and cheat sheets for calculus
 - [Engineering graph paper](https://drive.google.com/file/d/1iefiH8ht4y-KzKt9OgpgNxWrHeLLmAZv/view?usp=sharing) - official engineering graph paper PDF for your assignment (e.g., CIV100) and note-taking needs
+- [uNotes](https://unotes.net/) - free access to over 170k course quizzes, syllabi, past exams, and more (not engineering-focused, however)
+- [UofT Timetable Tracker](https://icprplshelp.github.io/UofT-Enrollment-Tracker/) - enrollment tracker for all UofT courses
 ## First Year Lecture Playlists
 - [APS110](https://www.youtube.com/playlist?list=PLKdCf_U3EFlRqOrxrfcy3P3gg5RtMlZDF) - Engineering Chemistry and Materials Science
 - [CIV100](https://www.youtube.com/playlist?list=PLKdCf_U3EFlQiZd090ECKD3tbgDOf1N7r) - Mechanics
