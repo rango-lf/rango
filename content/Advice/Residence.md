@@ -36,3 +36,7 @@
 	- You can use your meal plan in the Oak House, CampusOne, and New College dining halls 3 times a week.
 - Try to select a lower floor (1-10) if possible. You do not want to climb 15-30 flights of stairs if a fire alarm goes off or the elevators are down.
 
+## Off-Campus Housing
+- After first-year, many students choose to live in off-campus housing around the DT area.
+- [Off-Campus Housing Finder](https://www.studentlife.utoronto.ca/service/off-campus-housing-finder/) offers vetted units and roommate-finding services
+- [UofT Housing Services](https://www.studentlife.utoronto.ca/department/housing/) provides various programs and supports for finding safe off-campus housing, understanding rent and leasing agreements, emergency housing, and more.
