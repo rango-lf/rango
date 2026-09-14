@@ -1,3 +1,1 @@
-My current 2026-2027 resume can be seen below.
-
-<embed src="[https://drive.google.com/file/d/1LlazcWx6u-S-78jNGtBe-nEB56rF4t4Q/view?usp=sharing](https://github.com/rango-lf/rango/blob/f54a874b4ad88c0b16f3370b0cfd96dd1868118e/Resume%20-%20Rango%20Lee-Fu%20(1).pdf)" type="application/pdf" width="100%" height="600px" />
+My current 2026-2027 resume can be seen [here](https://drive.google.com/file/d/1LlazcWx6u-S-78jNGtBe-nEB56rF4t4Q/view?usp=sharing).
