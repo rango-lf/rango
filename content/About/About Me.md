@@ -13,7 +13,8 @@ Outside of academics, I love [UTSM](https://www.utsm.ca/), [EngSoc](https://skul
 **University of Toronto** • 2025-2030  
 Minor in Artificial Intelligence Engineering
 ## Academic & Professional Interests
-- **Artificial Intelligence & Machine Learning** — applications in medicine, materials development, and energy; improving human-AI interaction and collaboration; public perceptions of AI technologies
+- **Artificial Intelligence & Machine Learning** — applications in healthcare, medicine, and energy systems; improving human-AI interaction and collaboration; public perceptions of AI technologies
+- **Human Factors** — human-automation interaction, applications in healthcare, equitable and inclusive systems.
 - **Operations Research** — probabilistic risk assessment and simulations of nuclear power systems; mathematical modelling and control of epidemic spread
 - **Engineering Macroethics** — societal-level risks and responsible use of technologies (e.g. AI, nuclear power, aerospace)
 - **Engineering Education** — social justice and ethics in engineering curricula; implications of AI in engineering education, equity, diversity, and inclusion in engineering
