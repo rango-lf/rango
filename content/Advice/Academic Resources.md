@@ -17,7 +17,14 @@
 - [Engineering graph paper](https://drive.google.com/file/d/1iefiH8ht4y-KzKt9OgpgNxWrHeLLmAZv/view?usp=sharing) - official engineering graph paper PDF for your assignment (e.g., CIV100) and note-taking needs
 - [uNotes](https://unotes.net/) - free access to over 170k course quizzes, syllabi, past exams, and more (not engineering-focused, however)
 - [UofT Timetable Tracker](https://icprplshelp.github.io/UofT-Enrollment-Tracker/) - enrollment tracker for all UofT courses
-
+## First Year Lecture Playlists
+- [APS110](https://edtech.engineering.utoronto.ca/project-catalog/introductory-chemistry-from-a-materials-perspective/)
+- [MAT186/APS162](https://edtech.engineering.utoronto.ca/project-catalog/calculus-for-engineers-i/)
+- [MAT187/APS162](https://edtech.engineering.utoronto.ca/project-catalog/calculus-for-engineers-ii/)
+- [CIV100/APS160](https://edtech.engineering.utoronto.ca/project-catalog/mechanics/)
+- [MAT188](https://edtech.engineering.utoronto.ca/project-catalog/linear-algebra/)
+- [ECE110](https://www.youtube.com/playlist?list=PLluf7eor18dfpLjEXt2sRxep8g-bdWSur)
+- [MIE100](https://youtube.com/playlist?list=PLqZT6aTtr7BEgcIpES4XZDYl6-n8-n9Ko&si=iD-ZhTrjNoYBr8OB)
 ## Academic Services
 - [engSuccess Mentors](https://undergrad.engineering.utoronto.ca/skule-life/the-engineering-portal/) - upper-year peer mentors for guidance on time management, note-taking, and academic challenges
 - [Guide to First Year](https://firstyear.engineering.utoronto.ca/preparing-for-university/) - academic support info, pre-school prep, summer learning opportunities
